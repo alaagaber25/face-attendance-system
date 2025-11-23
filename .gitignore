@@ -10,3 +10,4 @@ wheels/
 .venv
 face_authorized.sqlite3
 authorized_faces
+tts_cache
